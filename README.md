@@ -1,6 +1,7 @@
 # Fake-News-Detection-main
 
 Pre-requisite
+
 The app requires python3 to be installed in the machine as the programming language used is Python
 
 FakeNews dectection experiment involves the following steps.
